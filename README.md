@@ -1,4 +1,4 @@
-    # USSDLTE - Mobile Number to User Name Lookup
+### USSDLTE - Mobile Number to User Name Lookup
 
 USSDLTE is a web application that provides a convenient way to look up the registered user names behind mobile numbers for popular mobile network operators such as MTN, Vodafone, and Airtel. This project aims to simplify the process of identifying the owners of mobile numbers by using the "transfer funds " through mobile money services.
 
