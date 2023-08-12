@@ -65,6 +65,5 @@ USSDLTE is a web application that provides a convenient way to look up the regis
 - if you have any questions or suggestions, feel free to contact me:
 
 * Email:mensahjefferson69@gmail.com
-* Github:cuuj69
 
 I hope USSDLTE proves to be a valuable tool for simplifying number lookups
